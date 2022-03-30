@@ -14,7 +14,7 @@
 ## how to return to save points
 
 - `git restore <file name>` - restores a file from the newest commit
-- `git restore --staged <file name>` - restores a staged file 
+- `git restore --staged <file name>` - unstage a file
 
 ## remote repository
 
